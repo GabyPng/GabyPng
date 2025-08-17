@@ -18,14 +18,7 @@
     ---:sdNMMMMNds:------------:
      :------:://:-----------::
         :----------------://          
-
----
-### Sobre mi... <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRuM3I4bWRuc2xdenE5YnJibnplZW1xaHc2eHEwcTBseXR1bnNwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8t7lXR6Sep8zB6v7El/giphy.gif" width="80">
-
-_Estudiante de Ingeniería en Sistemas Computacionales [Tec de Tepic](https://www.tepic.tecnm.mx/)_  
-
----
-
+        
 ### Mis intereses <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW93MHFraGRodmViM3NvM3FkZnNseGpsZXF1ajVibmdtendjdGJuM3cZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5nP7Nwu5FzMc/giphy.gif" width="80">
 ```markdown
 - Desarrollo web (frontend y backend)
