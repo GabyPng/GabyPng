@@ -21,9 +21,8 @@
         
 ### Mis intereses <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW93MHFraGRodmViM3NvM3FkZnNseGpsZXF1ajVibmdtendjdGJuM3cZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5nP7Nwu5FzMc/giphy.gif" width="80">
 ```markdown
-- Desarrollo web (frontend y backend)
-- Inteligencia Artificial y Machine Learning
-- Sistemas Operativos
+- Desarrollo web
+- Desarrollo de apl
 ```
 
 ---
@@ -32,7 +31,6 @@
 #### 🖥️ Lenguajes de programación
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnu-bash)
 
 #### 🌐 Desarrollo web
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
@@ -43,6 +41,7 @@
 #### 🛢️ Bases de datos
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL_Server-333?style=for-the-badge&logo=microsoft&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
+![MongoDB]
 
 #### 🖥️ IDEs
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333?style=for-the-badge&logo=visual-studio)
