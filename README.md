@@ -28,6 +28,7 @@
 - **[Snaptics](https://github.com/GabyPng/snaptics)** - Declarative domain-specific language compiler built with Python PLY targeting 8086 Assembly.
 - **[CloudFit](https://github.com/GabyPng/cloudfit)** - Web platform concept for personalized fitness and nutrition coaching.
 - **[Pattern Mining Data Analysis](https://github.com/GabyPng/dataAnalysis_forPatternMining)** - Exploratory data analysis and pattern extraction using Python.
+- **[Onca Lite](https://github.com/GabyPng/onca)** - Containerized multi-service web platform (Flask/Python) for mortality data visualization and geospatial analysis. Orchestrated with **Docker Compose**, environment variables, and interactive dashboards (Plotly/Folium).
 
 ---
 
